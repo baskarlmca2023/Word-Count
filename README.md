@@ -1,8 +1,16 @@
-# Word-Count
-Word Count In this project have to print the first three most common words that appear in a given text.
+# Word Count
 
-Steps to Run the Project Step 1: Press "ctrl + shift + i" to open the console.
+## Description:
 
-Step 2: It returns the most three common words.
+This HTML document displays the top 3 most frequently occurring words from a provided paragraph after removing punctuation and converting all text to lowercase.
 
-Future improvements The project can be further enhanced by adding spell checkers and improves or alters some additional resource.
+### How to run the code:
+
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying top 3 words.
+
+### Future Enhancements:
+
+Implementing user interactivity to allow dynamic paragraph input. Adding the ability to customize the number of top words displayed.
+
